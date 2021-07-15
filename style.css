@@ -1,0 +1,155 @@
+.body {
+    display: block;
+    width: 99%;
+    height: 100%;
+    background: url('img/ornament.jpg');
+}
+.secondbackground{
+    display: block;
+    height: 100%;
+    width: 90%;
+    background: #f0fff9;
+    position: relative;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.head {
+    display: block;
+    position: fixed;
+    text-align: center;
+    background: rgb(0, 128, 64);
+    color: white;
+    width: 100%;
+    height: 5%;
+    padding: 40px;
+    top: -30;
+    left: -10;
+
+}
+.bgn {
+    color: rgb(0, 128, 64);
+    font-size: 50px;
+    text-align: center;
+    font-family: MagicSchool;
+    padding: 20px 20px 80px 20px;
+
+}
+.wizards {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.wizard {
+    text-align: center;
+    box-sizing: border-box;
+    flex-basis: 20%;
+}
+@font-face {
+    font-family: "MagicSchool"; 
+    src: url("fonts/MagicSchoolOne.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    } 
+.surname {
+    margin: 0;
+    margin-top: 6px;
+    font-weight: 600;
+    color: rgb(0, 128, 64);
+    font-size: 35px;
+    font-family: MagicSchool;
+}
+.name {
+    margin: 0;
+    font-size: 30;
+    font-family: MagicSchool;
+}
+
+.whatis {
+    color: rgb(0, 128, 64);
+    font-size: 50px;
+    text-align: center;
+    font-family: MagicSchool;
+}
+p {
+    margin: 20px;
+    font-size: 20px;
+}
+.emblem {
+    color: rgb(0, 128, 64);
+    font-size: 50px;
+    text-align: center;
+    font-family: MagicSchool;
+
+}
+slth {
+    font-size: 32px;
+    font-family: MagicSchool;
+    color:rgb(0, 128, 64);
+}
+hgw {
+    font-size: 32px;
+    font-family: MagicSchool;
+    color: #2e102f;
+}
+hgw1 {
+    font-size: 32px;
+}
+gryf {
+    font-size: 32px;
+    font-family: MagicSchool;
+    color: #ab3d3d;
+}
+rvnclw{
+    font-size: 32px;
+    font-family: MagicSchool;
+    color: #100087;
+}
+.whereis {
+    color: rgb(0, 128, 64);
+    font-size: 50px;
+    text-align: center;
+    font-family: MagicSchool;
+}
+.imgg {
+    display: block;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+.howis {
+    color: rgb(0, 128, 64);
+    font-size: 50px;
+    text-align: center;
+    font-family: MagicSchool;
+}
+.best {
+    font-size: 40px;
+}
+slth1 {
+    font-size: 47px;
+    font-family: MagicSchool;
+    color:rgb(0, 128, 64);
+}
+.history{
+    color: rgb(0, 128, 64);
+    font-size: 50px;
+    text-align: center;
+    font-family: MagicSchool;
+}
+.godric {
+    font-size: 55px;
+    text-align: center;
+    font-family: MagicSchool;
+    color: #ab3d3d;
+}
+.contents {
+    color: rgb(0, 128, 64);
+    font-size: 50px;
+    font-family: MagicSchool;
+    margin: 15px;
+}
+cont{
+    font-size: 18px;
+    font-family: MagicSchool;
+    margin: 15px;
+    color: rgb(0, 128, 64);
+}
